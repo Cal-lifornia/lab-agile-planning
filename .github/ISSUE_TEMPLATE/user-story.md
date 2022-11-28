@@ -7,30 +7,17 @@ assignees: ''
 
 ---
 
-Skip to Main Content
-Coursera
-Search in course
+**As a** [role]
+**I need** [function]
+**So that** [benefit]
 
-    Introduction to Agile Development and Scrum
+**Details and assumptions
+* [document what you now]
 
-Week 2
+*** Acceptance Criteria
 
-    Hands-on Lab: Create an Issue Template in GitHub
-
-Video: VideoCreating Good User Stories
-. Duration: 10 minutes10 min
-Hands-on Lab: Create an Issue Template in GitHub
-. Duration: 10 minutes10 min
-Video: VideoEffectively using Story Points
-. Duration: 6 minutes6 min
-Video: VideoBuilding the Product Backlog
-. Duration: 7 minutes7 min
-Hands-on Lab: Assemble Your Product Backlog
-. Duration: 15 minutes15 min
-Reading: ReadingSummary and Highlights
-. Duration: 2 minutes2 min
-
-    Practice Quiz: Practice Quiz
-    5 questions
-
-Hands-on Lab: Create an Issue Template in GitHub
+```gherkin
+Given [some context]
+When [certain action is taken]
+Then [the outcome of action is observed]
+```
